@@ -1,0 +1,10 @@
+<resources>
+
+	<string name="app_name">TweenAnimation</string>
+	<string name="sun">Sun</string>
+	<string name="grass">Grass</string>
+	<string name="sky">Sky</string>
+	<string name="clock">Clock</string>
+	<string name="hour">Hour Hand</string>
+
+</resources>
