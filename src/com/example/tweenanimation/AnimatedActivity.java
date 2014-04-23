@@ -44,8 +44,10 @@ public class AnimatedActivity extends Activity {
 
 		//get the hour hand View
 		ImageView hour = (ImageView) findViewById(R.id.hour);
+	
 		//get the hour turn animation
 		Animation hourTurn = AnimationUtils.loadAnimation(this, R.anim.hour_turn);
+		
 		//apply the animation to the View
 		hour.startAnimation(hourTurn);
 
