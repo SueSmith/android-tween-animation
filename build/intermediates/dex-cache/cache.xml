@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ln-141/Documents/PranayWorkSpace/TweenAnimation/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="20303eb0fa2bfaf2d999770680eca6d805ca84b2">
+        <dex dex="/home/ln-141/Documents/PranayWorkSpace/TweenAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_1e5c51c971e021240efd7f941760904709c4c543/classes.dex" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/PranayWorkSpace/TweenAnimation/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7de58fb836cf67b1f0b58d9eecde170e9acfbe4a">
+        <dex dex="/home/ln-141/Documents/PranayWorkSpace/TweenAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_f4ce395d3184013837bc3e5f2745f11cf69567df/classes.dex" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/PranayWorkSpace/TweenAnimation/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="590b57a8addd5105d4555aa0a54d81ae72adcb7c">
+        <dex dex="/home/ln-141/Documents/PranayWorkSpace/TweenAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_0ba8d641c8eda39ed4f0ed471b97a21776876a1f/classes.dex" />
+    </item>
+
+</items>
